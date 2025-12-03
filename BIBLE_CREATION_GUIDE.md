@@ -90,6 +90,7 @@ Raw CSV files for custom processing:
 
 A complete analytical lexicon is available in:
 - MyBible format: `11_end-users_files/MyBible/Lexicon/HebGrk.dictionary.SQLite3`
+- MyBible CSV format: `11_end-users_files/MyBible/Lexicon/Lexicon_MyBilbe.csv` *(note: filename has typo "MyBilbe")*
 - UniqueBibleApp format: `11_end-users_files/LXX_lexicon_formatted_for_UniqueBibleAppPlus.csv`
 - Raw format: `09a_LXX_lexicon/` directory
 
